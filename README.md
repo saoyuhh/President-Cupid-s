@@ -19,5 +19,4 @@ A specialized matchmaking and social networking platform designed specifically f
 3. Configure the database connection in the config file.
 4. Run the project using a local server like XAMPP.
 
----
-*Developed by saoyuhh | Faculty of Computer Science, President University.*
+
